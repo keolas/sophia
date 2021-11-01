@@ -1,0 +1,190 @@
+---
+title: "Regional Economic Integration in Asia"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    nuber_section: true
+---
+
+<br>
+<br>
+
+***
+
+# 1. Regional economic integration
+<font size="5">Lowering barriers to cross-border movement of people, goods and money</font>
+<br>
+<br>
+
+- <font size="3">1.1 Economic benefits
+
+  --Improve market efficiency
+<br>
+<br>
+<br>
+  --Share the costs of public goods or large infrastructure projects
+<br>
+<br>
+<br>
+  --Decide policy cooperatively and have an anchor to reform
+<br>
+<br>
+<br>
+  --Have a building block for global integration
+<br>
+<br>
+<br>
+  --Reap other non-economic benefits, such as peace and security
+<br>
+<br>
+<br>
+  --But, countries may have different priorities, regional integration may also create winners and losers 
+<br>
+<br>
+<br>
+
+  [Source: Overview of Regional Integration (The World Bank)](https://www.worldbank.org/en/topic/regional-integration/overview#1) 
+
+</font>
+
+- <font size="5">1.2 Types of integration</font>
+
+  -- <font size="3">Customs union</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  -- <font size="3">Common market</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  -- <font size="3">Monetary/Economic union</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  [Source:TYPES OF ECONOMIC INTEGRATION (http://www.learneurope.eu)](http://www.learneurope.eu/index.php?cID=306)
+
+# 2. Major FTAs/EPAs in Asia-Pacific Region
+
+<br>
+<br>
+<br>
+
+## 2.1 Scope
+![](./figure/asia pacific region.png)
+
+source: Adapted from https://www.mofa.go.jp/policy/other/bluebook/2016/html/chapter3/c030301.html
+
+<br>
+
+## 2.2 Progress
+![](./figure/regionaleconomicintegration.png)
+
+<br>
+
+***
+# 3. Some regional coorperation frameworks
+
+<br>
+<br>
+<br>
+
+## 3.1 Mekong River Commision (MRC) and Greater Mekong Subregion (GMS)
+<font size="3"> 
+MRC: Cambodia, Laos, Myanmar, Thailand, Vietnam<br>
+GMS: MRC + Guangxi and Yunnan of China
+
+[Source:The Greater Mekong Subregion 2030 and Beyond: Integration, Upgrading, Cities, and Connectivity (Asian Development Bank)](https://www.adb.org/publications/gms-2030-integration-upgrading-cities-connectivity)
+</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 3.2 Indonesia–Malaysia–Singapore (SIJORI) Growth Triangle
+<font size="3"> 
+SIJORI: Singapore, Johor and Riau
+
+[Source:Formation of SIGORI Growth Triangle (The Government of Singapore)](https://eresources.nlb.gov.sg/history/events/bd4d0374-63ae-49fe-95c8-2210b3b0ac59)
+</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# 4. De facto VS De Jure Economic Integration
+
+<br>
+<br>
+<br>
+
+![](figure/hardriveproductionnetwork.png)
+
+<br>
+<br>
+
+# 5. Beyond spaghetti bowl integration 
+
+[Source: Hiratsuka (2007)](https://www.ide.go.jp/library/English/Publish/Reports/InterimReport/2007/pdf/Ch9_Hiratsuka.pdf)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
